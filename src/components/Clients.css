@@ -1,0 +1,35 @@
+.clients{
+    
+    font-size: 48;
+    font-weight: bold;
+    text-align: center;
+}
+.text{
+    text-align: center;
+    color: #5D5A5A;
+    font-size: 18;
+}
+.last{
+    margin-left: 30px;
+}
+.Airbnb{
+   
+    color: black;
+    background-color: #C6C6C6;
+    width: 179px;
+    height: 56px;
+}
+.github{
+    color: #C6C6C6;
+    opacity: 100%;
+    font-weight: bold;
+   
+}
+.husky{
+    color: #C6C6C6;
+    opacity: 100%;
+    font-weight: bold;
+    font-style: italic;
+   
+}
+

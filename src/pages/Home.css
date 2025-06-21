@@ -1,0 +1,71 @@
+.main__container {
+    height: 100vh;
+    width: 100%;
+  }
+  .hero__sahape {
+    height: 660px;
+    width: 100%;
+    background: linear-gradient(90deg , #659365,#073340);
+    --mask:
+    radial-gradient(34.99px at 50% calc(100% - 48px),#000 99%,#0000 101%) calc(50% - 60px) 0/120px 100%,
+    radial-gradient(34.99px at 50% calc(100% + 18px),#0000 99%,#000 101%) 50% calc(100% - 30px)/120px 100% repeat-x;
+  -webkit-mask: var(--mask);
+          mask: var(--mask);
+
+ }
+ .hero_heading{
+    font-size: 54px;
+    font-weight: bold;
+    color: #FFFF;
+    line-height: 60px;
+
+ }
+ .Agency{
+    color: #B9F2A1;
+ }
+ .hero_subtext{
+    color: #E8E8E8;
+ }
+/* First Button: Get Started */
+.btn_1 {
+   width: 187px;
+   height: 60px;
+   background-color: #B9F2A1;
+   border: none; /* No border */
+   border-radius: 10px;
+   font-size: 18px;
+   font-weight: bold;
+   color: black; /* Black text */
+   cursor: pointer;
+}
+.btn_1:hover{
+   transform: scale(1.1);
+   background-color: #218838;
+}
+
+
+.btn_2 {
+   width: 187px;
+   height: 60px;
+   border-radius: 10px;
+   background-color: transparent;
+   font-size: 18px;
+   font-weight: bold;
+   cursor: pointer;
+   margin-left: 20px;
+   border: 2px solid #B9F2A1;
+   color: #FFFF;
+}
+.btn_2:hover{
+   transform: scale(1.1);
+   background-color: #218838;
+}
+
+.hero_image{
+width: 455.77px;
+height: 429.99px;
+position:absolute;
+
+
+
+}

@@ -1,0 +1,53 @@
+.form{
+
+    background: transparent;
+    text-decoration: none;
+    border-radius: 20px;
+    color: #7A7A7A;
+    border: 2px solid #184447;
+    padding: 5px;
+    margin-top: 15px;
+    
+}
+.gu{
+    margin-top: 50px;
+}
+.formm{
+    background: transparent;
+    text-decoration: none;
+    border-radius: 20px;
+    color: #7A7A7A;
+    border: 2px solid #184447;
+    padding: 5px;
+    margin-top: 15px;
+    width: 395px;
+}
+.add{
+    background: linear-gradient(95deg,#164246,#629064);
+    height: 365px;
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+.pata {
+    padding: 50px 20px; 
+    color: white; 
+    font-size: 18px; 
+    font-weight: bold; 
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.button{
+    margin-top: 13px;
+    width: 130px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #B9F2A1;
+    margin-left: 120px;
+    border: none;
+    
+}
+.button:hover{
+    background-color: #7A7A7A;
+    transform: translate(-5px);
+}
